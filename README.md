@@ -1,4 +1,6 @@
-## *Olá, eu sou a Luana ﾉ*:･ﾟ✧
+<h2 align="center"><strong>Olá, eu sou a Luana ﾉ*:･ﾟ✧</strong></h2>
+
+<br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F3D98F&height=120&section=header"/>
 
