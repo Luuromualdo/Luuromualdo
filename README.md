@@ -11,7 +11,7 @@
 <img align="right" width="180px" style="border-radius:50px; margin-left:15px;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHdjY3picThlZmtwNW1zaXFqbW82MGluYTA1cmRseHJwNzc0ajluZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/106gRgBLIeEQ7u/giphy.gif">
 
 <div>
-  <b>✨ Minhas skills:</b>
+  <b> minhas skills:</b>
 </div>
 
 <br>
@@ -28,7 +28,7 @@
 <br><br>
 
 <div>
-  <b>📚 Estudando neste momento:</b>
+  <b> estudando neste momento:</b>
 </div>
 
 <br>
