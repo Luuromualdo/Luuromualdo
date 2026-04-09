@@ -4,7 +4,8 @@
 
 <br>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F3D98F&height=120&section=header"/>
-<img align="right" width="180px" style="border-radius:50px; margin-left:15px;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHdjY3picThlZmtwNW1zaXFqbW82MGluYTA1cmRseHJwNzc0ajluZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/106gRgBLIeEQ7u/giphy.gif">
+
+<img align="right" width="250px" style="border-radius:50px; margin-left:15px;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHdjY3picThlZmtwNW1zaXFqbW82MGluYTA1cmRseHJwNzc0ajluZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/106gRgBLIeEQ7u/giphy.gif">
 
 <div>
   <b> Minhas skills:</b>
@@ -14,6 +15,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-0D1117?style=for-the-badge&logo=insomnia&labelColor=0D1117)
+<br>
 ![Postman](https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117)
 ![VS Code](https://img.shields.io/badge/-VSCode-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=0D1117)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-0D1117?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=0D1117)
