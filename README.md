@@ -36,14 +36,6 @@
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)
 
-<br><br>
-
-<div align="right"> 
-  <a href="https://www.linkedin.com/in/luanaromualdo-/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
-</div>
-
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F3D98F&height=120&section=footer"/>
