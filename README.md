@@ -5,11 +5,11 @@
 <br>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F3D98F&height=120&section=header"/>
 
-<img align="right" width="250px" style="border-radius:50px; margin-left:15px;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHdjY3picThlZmtwNW1zaXFqbW82MGluYTA1cmRseHJwNzc0ajluZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/106gRgBLIeEQ7u/giphy.gif">
+<img align="right" width="250px" style="max-width:100%; border-radius:50px; margin-left:15px;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHdjY3picThlZmtwNW1zaXFqbW82MGluYTA1cmRseHJwNzc0ajluZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/106gRgBLIeEQ7u/giphy.gif">
 
 <div>
   <b> Minhas skills:</b>
-</div>
+</div> <br>
 
 ![Html](https://img.shields.io/badge/-Html-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117)
@@ -23,7 +23,7 @@
 <br><br>
 <div>
   <b> Estudando neste momento:</b>
-</div>
+</div> <br>
 
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)
